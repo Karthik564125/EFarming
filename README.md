@@ -45,13 +45,13 @@ Farmers see an overview of their uploaded products and can manage their inventor
 ---
 
 ### ➕ Add Product
-![Add Product](./screenshots/add product.png)  
+![Add Product](./screenshots/addproduct.png)  
 Form for farmers to upload new products, including name, quantity, price, and image.
 
 ---
 
 ### 🧑‍💼 Buyer Dashboard
-![Buyer Dashboard](./screenshots/buyer dash.png)  
+![Buyer Dashboard](./screenshots/buyerdash.png)  
 Buyers can view all available products, manage their cart, and place orders directly.
 
 ---
@@ -82,34 +82,19 @@ Buyers can view a history of their orders, with product details and payment info
 
 ### 🛡️ Admin Dashboard
 ![Admin Dashboard](./screenshots/admin1.png)  
-Admins can see total users, orders, and system stats in a clean overview format.
+Admins can see total farmers, buyers, orders in a clean overview format.
 
----
-
-### 📊 Admin Graph View
 ![Admin Graph](./screenshots/admin2.png)  
-Visual graphs showing platform analytics such as user growth and sales.
 
----
-
-### 📋 Admin Table View
 ![Admin Table](./screenshots/admin3.png)  
-Detailed tables listing users, farmers, and order data for moderation and analysis.
 
----
 
-### 🗄️ MongoDB Database View
-![Database](./screenshots/database.png)  
-A peek into the backend MongoDB database that stores users, orders, and products.
-
----
 
 ## ⚙️ Tech Stack
 
 - **Frontend**: React.js, HTML, CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB (Mongoose)
-- **Authentication**: JWT
+- **Backend**: Node.js
+- **Database**: MySQL
 - **Payments**: Razorpay API
 
 ---
