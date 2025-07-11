@@ -81,8 +81,9 @@ Buyers can view a history of their orders, with product details and payment info
 ---
 
 ### 🛡️ Admin Dashboard
-![Admin Dashboard](./screenshots/admin1.png)  
 Admins can see total farmers, buyers, orders in a clean overview format.
+![Admin Dashboard](./screenshots/admin1.png)  
+
 
 ![Admin Graph](./screenshots/admin2.png)  
 
