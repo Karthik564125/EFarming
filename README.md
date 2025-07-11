@@ -2,7 +2,6 @@
 
 E-Farming is a modern platform that connects **farmers** and **buyers**. Farmers can upload their fresh produce, and buyers can place orders, manage a cart, and complete payments securely. Admins oversee platform activity.
 
-## 📁 Project Structure
 
 
 ---
@@ -12,9 +11,8 @@ E-Farming is a modern platform that connects **farmers** and **buyers**. Farmers
 - Farmer and Buyer Registration & Login
 - Product Uploading and Shopping Cart
 - Razorpay Payment Gateway
-- Order Tracking
-- Admin Dashboard and Analytics
-- MongoDB for backend storage
+- Admin Dashboard
+- MySQL for backend storage
 
 ---
 
@@ -22,7 +20,7 @@ E-Farming is a modern platform that connects **farmers** and **buyers**. Farmers
 
 ### 🏠 Home Page
 ![Home](./screenshots/home.png)  
-Landing page of E-Farming with a clean navbar, branding, and navigation to login/register.
+Landing page of E-Farming with a clean navbar, and navigation to login/register.
 
 ---
 
