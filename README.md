@@ -1,6 +1,5 @@
 # 🥕 FarmBasket - Bridging Farmers and Consumers 🌾
 
-**Live App:** [efarming-1.onrender.com](https://efarming-1.onrender.com)
 
 FarmBasket is a full-stack web application that connects **farmers directly to buyers**, eliminating middlemen. Built with modern tech for a seamless and transparent food supply experience.
 
